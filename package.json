@@ -1,0 +1,7 @@
+{
+  "name": "smart-contract-test-update",
+  "private": true,
+  "dependencies": {
+    "acorn": "^8.16.0"
+  }
+}
